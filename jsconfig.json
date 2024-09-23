@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs", // Cambia esto si no usas ES Modules
+    "moduleResolution": "node",
+    "target": "ES2021",
+    "checkJs": true,
+    "allowJs": true
+  }
+}
